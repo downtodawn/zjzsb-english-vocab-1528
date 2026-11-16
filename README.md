@@ -9,6 +9,22 @@
 
 ---
 
+## 📥 下载
+
+### 👉 [**点这里下载完整包（75 MB）**](https://github.com/downtodawn/zjzsb-english-vocab-1528/releases/latest)
+
+> 解压后含全部 6 个文件，开箱即用。
+
+| 只要某一样？直接下仓库里的文件 |
+|---|
+| [词书本体 .apkg](https://github.com/downtodawn/zjzsb-english-vocab-1528/raw/main/%E6%B5%99%E6%B1%9F%E4%B8%93%E5%8D%87%E6%9C%AC%E8%AF%8D%E4%B9%A6_1528%E8%AF%8D%E7%BB%88%E6%9E%81%E5%B0%81%E7%89%88_%E5%90%AB%E9%9F%B3%E9%A2%91_%E5%B8%A6%E6%A0%87%E7%AD%BE.apkg) |
+| [23 页教程 .pptx](https://github.com/downtodawn/zjzsb-english-vocab-1528/raw/main/Anki%E8%AE%B0%E5%BF%86%E5%8D%A1%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pptx) |
+| [Excel 源文件 .xlsx](https://github.com/downtodawn/zjzsb-english-vocab-1528/raw/main/%E6%B5%99%E6%B1%9F%E4%B8%93%E5%8D%87%E6%9C%AC%E7%9C%9F%E9%A2%98%E6%A0%B8%E5%BF%83%E8%AF%8D%E4%B9%A6_1528%E8%AF%8D%E7%BB%88%E6%9E%81%E5%B0%81%E7%89%88_v18.xlsx) |
+| [15 年真题原文 .txt](https://github.com/downtodawn/zjzsb-english-vocab-1528/raw/main/%E6%B5%99%E6%B1%9F%E4%B8%93%E5%8D%87%E6%9C%AC_15%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%85%A8%E6%96%87_%E6%96%87%E5%AD%97%E7%89%88.txt) |
+| [安卓 APK](https://github.com/downtodawn/zjzsb-english-vocab-1528/raw/main/AnkiDroid-2.26.0-alpha13-arm64.apk) |
+
+---
+
 ## 📖 这是什么
 
 一本给**浙江专升本英语**考生用的真题词书。
