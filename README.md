@@ -1,5 +1,10 @@
 # 浙江专升本英语真题核心词书（1528 词）
 
+> ⚠️ **免责声明**
+> 本仓库内容仅供个人学习交流使用，不用于任何商业目的。
+> 词书整理、释义翻译、标签体系为原创工作；例句引自公开流传的历年真题，仅用于语言学习。
+> 若权利方认为存在不当之处，请提 Issue 或联系作者，会立即处理。
+
 > 从 **2012–2026 年浙江专升本英语真题**中提炼的 1528 个核心词条 —— 每个词都有音标、精校释义、真题语境例句、出处年份、考频星级和话题标签，配套 Anki 卡包与 23 页使用教程。
 
 ![词数](https://img.shields.io/badge/%E8%AF%8D%E6%9D%A1-1528-blue)
@@ -21,7 +26,6 @@
 | [23 页教程 .pptx](https://github.com/downtodawn/zjzsb-english-vocab-1528/raw/main/Anki%E8%AE%B0%E5%BF%86%E5%8D%A1%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pptx) |
 | [Excel 源文件 .xlsx](https://github.com/downtodawn/zjzsb-english-vocab-1528/raw/main/%E6%B5%99%E6%B1%9F%E4%B8%93%E5%8D%87%E6%9C%AC%E7%9C%9F%E9%A2%98%E6%A0%B8%E5%BF%83%E8%AF%8D%E4%B9%A6_1528%E8%AF%8D%E7%BB%88%E6%9E%81%E5%B0%81%E7%89%88_v18.xlsx) |
 | [15 年真题原文 .txt](https://github.com/downtodawn/zjzsb-english-vocab-1528/raw/main/%E6%B5%99%E6%B1%9F%E4%B8%93%E5%8D%87%E6%9C%AC_15%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%85%A8%E6%96%87_%E6%96%87%E5%AD%97%E7%89%88.txt) |
-| [安卓 APK](https://github.com/downtodawn/zjzsb-english-vocab-1528/raw/main/AnkiDroid-2.26.0-alpha13-arm64.apk) |
 
 ---
 
@@ -71,7 +75,6 @@
 | `Anki记忆卡使用指南.pptx` | **23 页操作教程**，从导入到每日复习全覆盖 |
 | `浙江专升本真题核心词书_1528词终极封版_v18.xlsx` | **词书源文件**，想查看或修改内容时用 |
 | `浙江专升本_15年真题全文_文字版.txt` | **15 年真题原文**，用来核对例句出处 |
-| `AnkiDroid-2.26.0-alpha13-arm64.apk` | 安卓版 Anki 安装包（备用）|
 
 ---
 
@@ -82,7 +85,7 @@
 | 设备 | 装什么 | 从哪装 |
 |---|---|---|
 | **鸿蒙手机** | Anki记忆卡 | 鸿蒙应用市场搜「Anki记忆卡」|
-| **安卓手机** | AnkiDroid | [GitHub Releases](https://github.com/ankidroid/Anki-Android/releases) 或本仓库 `AnkiDroid-*.apk` |
+| **安卓手机** | AnkiDroid | [官方 GitHub Releases](https://github.com/ankidroid/Anki-Android/releases)（开源免费）|
 | **Windows** | Anki | [apps.ankiweb.net](https://apps.ankiweb.net/) |
 | **iPhone** | AnkiMobile | App Store（付费 ¥198）|
 
